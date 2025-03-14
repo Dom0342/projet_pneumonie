@@ -1,4 +1,4 @@
-# projet_pneumonie
+# Projet_pneumonie
 # Ce projet est un projet de Deep Learning utilisant un reseau de neurones de convolution (CNN) permettant une classfication binaire d'images de radio de poumons possedant ou non une pneummonie
 ## Ce projet utilise tensorflow pour la creation du CNN
 ### J'ai telecharge une base donnees deja partitionnee entre donnees d'entrainement et de validation.
